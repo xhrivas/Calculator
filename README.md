@@ -19,3 +19,7 @@ A simple command-line calculator built in Python that can perform basic arithmet
 5. Asks if the user wants to:
    - Continue with the previous result, or  
    - Start a fresh calculation.  
+
+---
+
+[![Run on Replit][(https://github.com/xhrivas/Calculator.git)](https://replit.com/@xhrivas/Calculator-1)
