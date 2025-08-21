@@ -1,22 +1,25 @@
-# 🧮 Calculator Program Functionality
+# 🧮 Python Calculator
 
-This program performs basic arithmetic calculations with an option to continue using the previous result.
+A simple command-line calculator built in Python that can perform basic arithmetic operations and allows continuous calculations with the previous result.
 
-## 📌 Features
-- Asks the user to **enter the first number**.
-- Prompts for a **mathematical operator** (`+`, `-`, `*`, `/`).
-- Requests the **second number**.
-- Computes and displays the **result**.
+---
 
-## 🔁 Continuous Operation
-- After calculation, the program asks:  
-  👉 *"Do you want to continue with the previous result?"*  
-- If **Yes** → Uses the previous result as the first number and repeats the process.  
-- If **No** → Asks for a new first number and clears previous calculations.  
+## ⚡ Features
+- Supports **addition (+)**, **subtraction (-)**, **multiplication (*)**, and **division (/)**  
+- Lets the user **continue with the previous result** or start a **new calculation**  
+- Clean, interactive CLI experience  
 
-## 🎯 Example Workflow
-1. Input: `5`  
-2. Operator: `+`  
-3. Input: `3`  
-4. Output: `8`  
-5. User chooses **Yes** → Next calculation starts with `8` as the first number.
+---
+
+## 🛠 How It Works
+1. The program asks the user to **enter the first number**.  
+2. Prompts for a **mathematical operator** (`+`, `-`, `*`, `/`).  
+3. Requests the **second number**.  
+4. Displays the result.  
+5. Asks if the user wants to:
+   - Continue with the previous result, or  
+   - Start a fresh calculation.  
+
+---
+
+## 🧮 Example Run
